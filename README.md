@@ -1,5 +1,5 @@
 # Spring-Boot-Basic-Microservice
-Testing project of spring boot microservice
+Testing Project of spring boot microservice using Spring Cloud
 
 This is just a testing repo for my learning path of Microservice via Spring Boot and Spring Cloud.
 
